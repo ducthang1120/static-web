@@ -1,7 +1,7 @@
 * {
     margin: 0;
     box-sizing: border-box;
-    color: rgb(250, 249, 249);
+    color: black;
 }
 
 
@@ -10,13 +10,13 @@
 header {
     padding: 5px;
     text-align: center;
-    background: cd201f;
+    background: yellowgreen;
     color: 00c300;
     height: 120px;
 }
 
 body {
-    background-color: ff6600;
+    background-color: whitesmoke;
 }
 
 
@@ -29,7 +29,7 @@ header h1 {
 header h1,
 h2,
 h3 {
-    color: 131418);
+    color: 131418;
 }
 
 section {
@@ -41,8 +41,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid chocolate;
-    background-color: 25D366;
+    border: 1px solid 81D4FA;
+    background-color: BA68C8;
 }
 
 li {
@@ -180,7 +180,7 @@ li.dropdown {
 
 .service_item h2 {
     font-size: 24px;
-    color: #ffffff;
+    color: black;
     margin-bottom: 10px;
 }
 
@@ -222,18 +222,18 @@ li.dropdown {
 
 .product_right h2 {
     font-size: 30px;
-    color: #ffffff;
+    color: black;
 }
 
 .product_right h3 {
     font-size: 24px;
-    color: #ffffff;
+    color: black;
     font-family: 'Playball', cursive;
     margin-top: 15px;
 }
 
 .product_right p {
-    color: #ffffff;
+    color: black;
     margin-top: 30px;
     line-height: 29px;
     font-size: 17px;
