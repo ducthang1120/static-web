@@ -10,13 +10,13 @@
 header {
     padding: 5px;
     text-align: center;
-    background: #fad502;
-    color: black;
+    background: cd201f;
+    color: 00c300;
     height: 120px;
 }
 
 body {
-    background-color: ;
+    background-color: ff6600;
 }
 
 
@@ -29,7 +29,7 @@ header h1 {
 header h1,
 h2,
 h3 {
-    color: black;
+    color: 131418);
 }
 
 section {
@@ -41,8 +41,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #e7cf7e;
-    background-color: #e7cf7e;
+    border: 1px solid chocolate;
+    background-color: 25D366;
 }
 
 li {
@@ -52,7 +52,7 @@ li {
 li a,
 .dropbtn {
     display: inline-block;
-    color: #666;
+    color: navy;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
