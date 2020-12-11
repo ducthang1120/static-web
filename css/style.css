@@ -10,13 +10,13 @@
 header {
     padding: 5px;
     text-align: center;
-    background: #b8224f;
-    color: #e7cf7e;
+    background: #fad502;
+    color: black;
     height: 120px;
 }
 
 body {
-    background-color: #363636b4;
+    background-color: ;
 }
 
 
@@ -29,7 +29,7 @@ header h1 {
 header h1,
 h2,
 h3 {
-    color: #e7cf7e;
+    color: black;
 }
 
 section {
